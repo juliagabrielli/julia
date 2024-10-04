@@ -5,3 +5,10 @@
   --primay-color: #F2BED1;
   --secundary-color: #F9F5F6;
   --font: "nunito sans", sans-serif;
+}
+
+  body{
+    background-color: var(--bg-color);
+    color: var(--primay-color);
+    font-family: var(--font);
+  }

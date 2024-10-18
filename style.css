@@ -49,3 +49,9 @@ footer{
      display: flex;
      align-items: center;
      justify-content: center;
+     background-color: var(--primay-color);
+     color: var(--bg-color);
+     width: 100%;
+     height: 3rem;
+     margin-top: 2ren;
+}
